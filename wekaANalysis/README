@@ -1,0 +1,2 @@
+1. run: sbt assembly
+2. run: java -Xmx10G -cp wekaANalysis-assembly-1.0.jar MainClass  unbalancedDbForWEKA.csv

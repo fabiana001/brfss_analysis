@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+*.zip
+.DS_Store
+dataset.xpt
+df_cleaned_replaced_nan.pickle
+LLCP2015XPT.zip
+*.xpt
+*.pickle
+*.pkl
+
+consegna/wekaANalysis/project/target/
+consegna/wekaANalysis/target/
+consegna/wekaANalysis/project/target/
